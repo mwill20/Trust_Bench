@@ -1,2 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Environment variables
+.env
+
+# Output directories
+output/
+*_output/
+verification_test/
+multi_agent_output/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Existing exclusions
 Project2v2/assets/images/TrustBench Video.mp4
 Trust_Bench_mirror/
